@@ -1,5 +1,5 @@
 <h1 align="center">👋 Привет, я Никита</h1>
-<h3 align="center">Backend Developer C#, в настоящее время работаю в БРСК</h3> 
+<h3 align="center">Fullstack C# Developer, в настоящее время работаю в БРСК</h3> 
 
 - 🔭 Текущий проект: [BetterUksivt](https://github.com/Djostit/BetterUksivt)
 
