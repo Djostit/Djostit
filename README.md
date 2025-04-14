@@ -1,53 +1,62 @@
-<h1 align="center">👋 Привет, я Никита</h1>
-<h3 align="center">Fullstack C# Developer, в настоящее время работаю в БРСК</h3> 
+<h1 align="center">
+  <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30px"> Привет, я Никита
+</h1>
+<h3 align="center">
+  <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="30px"> Full-Stack .NET Developer | Backend & Scalable Systems</h3> 
 
-- 🔭 Текущий проект: [BetterUksivt](https://github.com/Djostit/BetterUksivt)
-
-- 🌱 Изучаю языки: **C#, TypeScript**
-
-- 📫 Моя страница ВК: [Зверев Никита](https://vk.com/djostit)
-
-- 🌵 Мне 19 лет
-
-- ⚡ Интересный факт: **самое популярное имя переменной в коде программистов - i**
-
-<details><summary><h2>Мой стек</h2>: </summary>
-
-### Frontend
-
-![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-
-### Backend
-![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### Databases
-![](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</details>
-
+- 🔥 **Текущий фокус**: Ищу вдохновляющую идею для pet-project
+- 🏢 **Место работы**: [БРСК](https://brsk.ru)
+> Разрабатываю сложные корпоративные решения. Превращаю бизнес-требования в надёжные и масштабируемые системы, а не просто пишу код.
+- 🌱 **Углубленно изучаю**: Clean Architecture, Event-Driven системы, C# performance tricks, Distributed Caching
+- 📫 **Контакты**: [VK](https://vk.com/djostit) | [Telegram](https://t.me/Djostit)
+- 💡 **Факт**: Redis ускоряет системы лучше, чем 10 чашек кофе <img src="https://media.tenor.com/gNpAmaLGU4cAAAAi/emoji-melting.gif" width="20px">
 <br>
 
+
+
 ```csharp
-internal record Heart(string favorite_language = "C#");
+// Сердце разработчика ♡
+internal record Heart(
+    string Language = "C#",
+    string[] LovedTech = ["Kafka", "Redis", ".NET"],
+    bool BeatsForCode = true
+);
 ```
+<details>
+<summary><h2><img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="30px"> Мой стек</h2></summary>
 
-<details> <summary><h2>Статистика GitHub</h2></summary>
-<p>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djostit&layout=compact)](https://github.com/djostit/github-readme-stats)
+### 🔥 Core Backend
+![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=djostit)
+### 🗃️ Databases & Caching
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-</p>
+### ⚡ Event-Driven
+![](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![](https://img.shields.io/badge/Hangfire-5C2D91?style=for-the-badge)
+
+### 🏗️ Architecture
+![](https://img.shields.io/badge/Clean%20Architecture-5C2D91?style=for-the-badge)
+![](https://img.shields.io/badge/DDD-5C2D91?style=for-the-badge)
+![](https://img.shields.io/badge/CQRS-5C2D91?style=for-the-badge)
+![](https://img.shields.io/badge/SOLID-5C2D91?style=for-the-badge)
+![](https://img.shields.io/badge/KISS-5C2D91?style=for-the-badge)
+
+### 🛠️ DevOps & Tools
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/GitLab%20CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![](https://img.shields.io/badge/YARP-5C2D91?style=for-the-badge)
+</details>
+<details>
+<summary><h2>📊 GitHub статистика</h2></summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djostit&layout=compact&hide=html,css&theme=radical)](https://github.com/djostit)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=djostit&theme=dark)](https://git.io/streak-stats)
 </details>
 
